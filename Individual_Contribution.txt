@@ -1,0 +1,10 @@
+Individual Contribution
+
+1) Varun Subramanya(01705578)
+
+Wrote the code for custom topology, firewall.py and the firewallpolicies.py file. 
+Understood and implemented the firewall using POX and mininet - Initially struggled to understand the concepts of SDN firewall. Moving forward with some youtube references was able to understan and implement it.
+Prepared the report 
+
+2) Akash S Raghavan
+Helped in preparation of the report.
